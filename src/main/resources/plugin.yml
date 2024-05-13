@@ -1,4 +1,0 @@
-name: TimeManager
-version: '${project.version}'
-main: net.arial.time.Main
-api-version: '1.16'
